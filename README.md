@@ -18,13 +18,13 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<h2 align="center">Languages · Frameworks · Tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,go,react,vue,fastapi,postgres,docker,vercel,git,github,vscode" />
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=HonkerAcmen&theme=react&border_radius=10" alt="streak stats"/>
@@ -33,7 +33,7 @@
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonkerAcmen&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
-<h2 align="center">📦 Projects</h2>
+<h2 align="center">Projects</h2>
 
 <table>
   <thead align="center">
@@ -84,7 +84,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Check+out+my+repos+below+:)">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Check+out+my+repos+below">
 </h3>
 
 <p align="center">
