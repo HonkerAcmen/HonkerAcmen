@@ -18,15 +18,11 @@
   </a>
 </div>
 
-<hr/>
-
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,go,react,vue,fastapi,postgres,docker,vercel,git,github,vscode" />
 </div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
@@ -36,8 +32,6 @@
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonkerAcmen&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
-
-<hr/>
 
 <h2 align="center">📦 Projects</h2>
 
@@ -88,8 +82,6 @@
     <img alt="More Repos" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/>
   </a>
 </p>
-
-<hr/>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Check+out+my+repos+below+:)">
