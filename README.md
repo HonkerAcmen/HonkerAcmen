@@ -39,9 +39,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=transparent&hide_border=true&bg_color=00000000&color=30363d&line=58a6ff&point=58a6ff&area=true&height=260" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=transparent&hide_border=true&bg_color=00000000&color=d0d7de&line=0969da&point=0969da&area=true&height=260" />
-  <img width="680" src="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=transparent&hide_border=true&bg_color=00000000&color=d0d7de&line=0969da&point=0969da&area=true&height=260" alt="Activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=transparent&hide_border=true&bg_color=00000000&color=30363d&line=58a6ff&point=58a6ff&area=true&height=420" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=transparent&hide_border=true&bg_color=00000000&color=d0d7de&line=0969da&point=0969da&area=true&height=420" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=transparent&hide_border=true&bg_color=00000000&color=d0d7de&line=0969da&point=0969da&area=true&height=420" alt="Activity graph" />
 </picture>
 
 </div>
