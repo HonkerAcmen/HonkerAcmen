@@ -12,9 +12,7 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 <h3>Languages · Frameworks · Tools</h3>
 
@@ -28,103 +26,40 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=000000" alt="Docker"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel"/>
 
-<br/><br/>
+</div>
 
-<h3>Top Languages</h3>
+<br/>
 
-<img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HonkerAcmen&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&border_radius=10&title_color=58a6ff&text_color=8b949e" alt="top langs" />
+<div align="center">
 
-</td>
-<td valign="top" width="50%">
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HonkerAcmen&theme=github_dark" alt="GitHub profile details" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HonkerAcmen&theme=github_dark" alt="GitHub commit stats" />
 
-<h3>GitHub Stats</h3>
+<br/>
 
-<img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HonkerAcmen&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&border_radius=10&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="readme stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HonkerAcmen&theme=github_dark" alt="Top languages by repo" />
+<img height="200" src="https://streak-stats.demolab.com/?user=HonkerAcmen&theme=dark&hide_border=true&background=0D1117&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=484f58&dates=484f58&sideNums=8b949e" alt="Contribution streak" />
 
-<br/><br/>
-
-<h3>Contribution Streak</h3>
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=HonkerAcmen&theme=transparent&hide_border=true&background=00000000&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=484f58&dates=484f58&sideNums=8b949e" alt="streak stats" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 <h3 align="center">Featured Projects</h3>
 
-<table width="100%">
-<thead align="center">
-<tr>
-<td width="22%"><b>Project</b></td>
-<td width="38%"><b>Description</b></td>
-<td width="20%"><b>Stack</b></td>
-<td width="10%"><b>Demo</b></td>
-<td width="10%"><b>Source</b></td>
-</tr>
-</thead>
-<tbody align="center">
-<tr>
-<td><b>JKVideo</b></td>
-<td align="left">第三方 B 站客户端 · DASH · 弹幕 · 直播</td>
-<td>React Native · TS</td>
-<td>—</td>
-<td><a href="https://github.com/HonkerAcmen/JKVideo"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=000000" alt="source"/></a></td>
-</tr>
-<tr>
-<td><b>tn-storage-react</b></td>
-<td align="left">TNStorage 云存储前端应用</td>
-<td>React · TypeScript</td>
-<td><a href="https://tn-storage-react.vercel.app"><img src="https://img.shields.io/badge/Demo-Live-1f6feb?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="demo"/></a></td>
-<td><a href="https://github.com/HonkerAcmen/tn-storage-react"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=000000" alt="source"/></a></td>
-</tr>
-<tr>
-<td><b>TNStorage</b></td>
-<td align="left">云存储应用全栈项目</td>
-<td>TypeScript</td>
-<td>—</td>
-<td><a href="https://github.com/HonkerAcmen/TNStorage"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=000000" alt="source"/></a></td>
-</tr>
-<tr>
-<td><b>griver_favorites</b></td>
-<td align="left">收藏夹服务后端 API</td>
-<td>Python · FastAPI</td>
-<td>—</td>
-<td><a href="https://github.com/HonkerAcmen/griver_favorites"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=000000" alt="source"/></a></td>
-</tr>
-<tr>
-<td><b>payroll-fullstack</b></td>
-<td align="left">薪资管理系统 · 前后端分离</td>
-<td>Go · TypeScript</td>
-<td>—</td>
-<td>
-<a href="https://github.com/HonkerAcmen/payroll-backend-homework"><img src="https://img.shields.io/badge/Backend-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=000000" alt="backend"/></a>
-<a href="https://github.com/HonkerAcmen/payroll-frontend-homework"><img src="https://img.shields.io/badge/Frontend-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=000000" alt="frontend"/></a>
-</td>
-</tr>
-<tr>
-<td><b>HSP-web</b></td>
-<td align="left">Web 前端项目</td>
-<td>Vue</td>
-<td>—</td>
-<td><a href="https://github.com/HonkerAcmen/HSP-web"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=000000" alt="source"/></a></td>
-</tr>
-<tr>
-<td><b>PersonBlog</b></td>
-<td align="left">个人博客项目</td>
-<td>Vue</td>
-<td>—</td>
-<td><a href="https://github.com/HonkerAcmen/PersonBlog"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=000000" alt="source"/></a></td>
-</tr>
-</tbody>
-</table>
+| Project | Description | Stack | Demo | Source |
+| :--- | :--- | :--- | :---: | :---: |
+| **JKVideo** | 第三方 B 站客户端 · DASH · 弹幕 · 直播 | React Native · TS | — | [Code](https://github.com/HonkerAcmen/JKVideo) |
+| **tn-storage-react** | TNStorage 云存储前端应用 | React · TypeScript | [Live](https://tn-storage-react.vercel.app) | [Code](https://github.com/HonkerAcmen/tn-storage-react) |
+| **TNStorage** | 云存储应用全栈项目 | TypeScript | — | [Code](https://github.com/HonkerAcmen/TNStorage) |
+| **griver_favorites** | 收藏夹服务后端 API | Python · FastAPI | — | [Code](https://github.com/HonkerAcmen/griver_favorites) |
+| **payroll-fullstack** | 薪资管理系统 · 前后端分离 | Go · TypeScript | — | [Backend](https://github.com/HonkerAcmen/payroll-backend-homework) · [Frontend](https://github.com/HonkerAcmen/payroll-frontend-homework) |
+| **HSP-web** | Web 前端项目 | Vue | — | [Code](https://github.com/HonkerAcmen/HSP-web) |
+| **PersonBlog** | 个人博客项目 | Vue | — | [Code](https://github.com/HonkerAcmen/PersonBlog) |
 
 <br/>
 
 <h3 align="center">Contributions</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=transparent&hide_border=true&bg_color=00000000&color=21262d&line=58a6ff&point=58a6ff&area=true&height=280" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=github-dark&hide_border=true&bg_color=0d1117&color=21262d&line=58a6ff&point=58a6ff&area=true&height=280" alt="Activity graph" width="100%" />
 </div>
