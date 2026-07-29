@@ -26,19 +26,19 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=000000" alt="Docker"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HonkerAcmen&theme=github_dark" alt="GitHub profile" />
 
-<div align="center">
+<br/><br/>
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HonkerAcmen&theme=github_dark" alt="GitHub profile details" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HonkerAcmen&theme=github_dark" alt="GitHub commit stats" />
+<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HonkerAcmen&theme=github_dark" alt="GitHub stats" />
+&nbsp;&nbsp;
+<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HonkerAcmen&theme=github_dark" alt="Top languages" />
 
-<br/>
+<br/><br/>
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HonkerAcmen&theme=github_dark" alt="Top languages by repo" />
-<img height="200" src="https://streak-stats.demolab.com/?user=HonkerAcmen&theme=dark&hide_border=true&background=0D1117&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=484f58&dates=484f58&sideNums=8b949e" alt="Contribution streak" />
+<img width="680" src="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=github-dark&hide_border=true&bg_color=0d1117&color=21262d&line=58a6ff&point=58a6ff&area=true&height=260" alt="Activity graph" />
 
 </div>
 
@@ -55,11 +55,3 @@
 | **payroll-fullstack** | 薪资管理系统 · 前后端分离 | Go · TypeScript | — | [Backend](https://github.com/HonkerAcmen/payroll-backend-homework) · [Frontend](https://github.com/HonkerAcmen/payroll-frontend-homework) |
 | **HSP-web** | Web 前端项目 | Vue | — | [Code](https://github.com/HonkerAcmen/HSP-web) |
 | **PersonBlog** | 个人博客项目 | Vue | — | [Code](https://github.com/HonkerAcmen/PersonBlog) |
-
-<br/>
-
-<h3 align="center">Contributions</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HonkerAcmen&theme=github-dark&hide_border=true&bg_color=0d1117&color=21262d&line=58a6ff&point=58a6ff&area=true&height=280" alt="Activity graph" width="100%" />
-</div>
