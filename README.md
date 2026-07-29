@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
-</p>
-
 <div align="center">
   <h2>HonkerAcmen</h2>
   <p>Full-Stack Developer · <strong>AAOTStudio</strong></p>
@@ -50,12 +46,63 @@
 
 <h3 align="center">Featured Projects</h3>
 
-| Project | Description | Stack | Demo | Source |
-| :--- | :--- | :--- | :---: | :---: |
-| **JKVideo** | 第三方 B 站客户端 · DASH · 弹幕 · 直播 | React Native · TS | — | [Code](https://github.com/HonkerAcmen/JKVideo) |
-| **tn-storage-react** | TNStorage 云存储前端应用 | React · TypeScript | [Live](https://tn-storage-react.vercel.app) | [Code](https://github.com/HonkerAcmen/tn-storage-react) |
-| **TNStorage** | 云存储应用全栈项目 | TypeScript | — | [Code](https://github.com/HonkerAcmen/TNStorage) |
-| **griver_favorites** | 收藏夹服务后端 API | Python · FastAPI | — | [Code](https://github.com/HonkerAcmen/griver_favorites) |
-| **payroll-fullstack** | 薪资管理系统 · 前后端分离 | Go · TypeScript | — | [Backend](https://github.com/HonkerAcmen/payroll-backend-homework) · [Frontend](https://github.com/HonkerAcmen/payroll-frontend-homework) |
-| **HSP-web** | Web 前端项目 | Vue | — | [Code](https://github.com/HonkerAcmen/HSP-web) |
-| **PersonBlog** | 个人博客项目 | Vue | — | [Code](https://github.com/HonkerAcmen/PersonBlog) |
+<table border="0" cellspacing="0" cellpadding="10" width="100%">
+<thead align="center">
+<tr>
+<th width="18%">Project</th>
+<th width="40%">Description</th>
+<th width="18%">Stack</th>
+<th width="24%">Links</th>
+</tr>
+</thead>
+<tbody align="center">
+<tr>
+<td><b>JKVideo</b></td>
+<td align="left">第三方 B 站客户端 · DASH · 弹幕 · 直播</td>
+<td>React Native · TS</td>
+<td><a href="https://github.com/HonkerAcmen/JKVideo"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"/></a></td>
+</tr>
+<tr>
+<td><b>tn-storage-react</b></td>
+<td align="left">TNStorage 云存储前端应用</td>
+<td>React · TypeScript</td>
+<td>
+<a href="https://tn-storage-react.vercel.app"><img src="https://img.shields.io/badge/Demo-Live-0969DA?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
+<a href="https://github.com/HonkerAcmen/tn-storage-react"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+</td>
+</tr>
+<tr>
+<td><b>TNStorage</b></td>
+<td align="left">云存储应用全栈项目</td>
+<td>TypeScript</td>
+<td><a href="https://github.com/HonkerAcmen/TNStorage"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"/></a></td>
+</tr>
+<tr>
+<td><b>griver_favorites</b></td>
+<td align="left">收藏夹服务后端 API</td>
+<td>Python · FastAPI</td>
+<td><a href="https://github.com/HonkerAcmen/griver_favorites"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"/></a></td>
+</tr>
+<tr>
+<td><b>payroll-fullstack</b></td>
+<td align="left">薪资管理系统 · 前后端分离</td>
+<td>Go · TypeScript</td>
+<td>
+<a href="https://github.com/HonkerAcmen/payroll-backend-homework"><img src="https://img.shields.io/badge/Backend-24292F?style=flat-square&logo=github&logoColor=white" alt="Backend"/></a>
+<a href="https://github.com/HonkerAcmen/payroll-frontend-homework"><img src="https://img.shields.io/badge/Frontend-24292F?style=flat-square&logo=github&logoColor=white" alt="Frontend"/></a>
+</td>
+</tr>
+<tr>
+<td><b>HSP-web</b></td>
+<td align="left">Web 前端项目</td>
+<td>Vue</td>
+<td><a href="https://github.com/HonkerAcmen/HSP-web"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"/></a></td>
+</tr>
+<tr>
+<td><b>PersonBlog</b></td>
+<td align="left">个人博客项目</td>
+<td>Vue</td>
+<td><a href="https://github.com/HonkerAcmen/PersonBlog"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"/></a></td>
+</tr>
+</tbody>
+</table>
